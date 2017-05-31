@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Auto-generated files
+.qmake.stash
+/Makefile
+moc_*
+
+*.swp
